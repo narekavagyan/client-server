@@ -1,1 +1,1 @@
-# client-server
+# A client-server application.
